@@ -6,7 +6,7 @@
     url("./assests/fonts/Agustina.woff") format("woff");
 }
 @font-face {
-  font-family: "n";
+  font-family: "Montserrat";
   src: local("Montserrat"),
     url("./assests/fonts/Montserrat-Regular.ttf") format("woff");
 }
