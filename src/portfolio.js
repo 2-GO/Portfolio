@@ -98,8 +98,8 @@ const skills = {
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
           style: {
             color: "#339933",
           },
@@ -268,7 +268,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "2-GO.svg",
+    profile_image_path: "logowhitenobg.svg",
     description:
       "I am available on the following social media, I will try my best to get back to you within 24hrs. I can help you with Frontend/Web Development.",
   },
