@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "GO",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Hi! My field of interest's are building new web technologies and products using JS and React.JS. Thanks for stopping by, feel free to look around. ",
   og: {
     title: "GO",
     type: "website",
