@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "2-GO",
   nickname: "Frontend Developer",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Hi! My field of interest's are building new web technologies and products using JS and React.JS. Thanks for stopping by, have a look around!",
   resumeLink:
     "https://drive.google.com/file/d/142ixuv4rZQWiMUuuH3pFTtG7dNvl3TTh/view",
   portfolio_repository: "https://github.com/2-GO/Portfolio",
@@ -63,7 +63,7 @@ const skills = {
       title: "Frontend/Web Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using HTML5, CSS3, JS & React",
+        "⚡ Building responsive website front end using HTML5, CSS3, JS & React.JS",
         "⚡ Experienced in developing responsive and user-friendly websites, ensuring compatibility across different browsers and devices.",
         "⚡ Competent in using version control systems like Git, enabling collaborative and efficient code management",
       ],
