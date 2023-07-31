@@ -4,6 +4,11 @@
       "login": "community",
       "avatarUrl": "https://avatars.githubusercontent.com/u/93784371?v=4",
       "__typename": "Organization"
+    },
+    {
+      "login": "vercel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+      "__typename": "Organization"
     }
   ]
 }

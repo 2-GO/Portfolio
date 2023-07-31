@@ -33,7 +33,16 @@
       "url": "https://github.com/2-GO/e-commerce",
       "description": null,
       "isFork": false,
-      "languages": []
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
     },
     {
       "id": "R_kgDOJpGQWg",

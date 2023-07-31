@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "2-GO",
   nickname: "Frontend Developer",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I create intuitive user experiences by leveraging my skills in HTML, CSS, JavaScript, and React. My aim is to build web apps that solve problems through clean, functional design. I thrive on collaborating with talented teams to deliver high-quality products. Frontend development aligns with my lifelong passion for technology and problem solving.",
   resumeLink:
     "https://drive.google.com/file/d/142ixuv4rZQWiMUuuH3pFTtG7dNvl3TTh/view",
   portfolio_repository: "https://github.com/2-GO/Portfolio",
@@ -153,7 +153,7 @@ const degrees = {
       subtitle: "B.S. in Financial Management",
       logo_path: "NU_logo-edit.png",
       alt_name: "NU",
-      duration: "",
+      duration: "2024",
       descriptions: [
         "⚡ Gain theoretical and practical knowledge of corporate finance, including topics such as capital budgeting, cost of capital, and financial risk management.",
         "⚡ Understand the financial objectives of an organization and apply quantitative, qualitative, and problem-solving skills to achieve those objectives.",
@@ -167,7 +167,7 @@ const degrees = {
       subtitle: "A.S. in Business Administration",
       logo_path: "SJVC_color_logo-edit.png",
       alt_name: "SJVC",
-      duration: "",
+      duration: "2015",
       descriptions: [
         "⚡ Gain a comprehensive understanding of various functional areas of business, including marketing, finance, management, and entrepreneurship.",
         "⚡ Acquire knowledge of basic accounting principles and financial management, enabling you to analyze and interpret financial statements.",
@@ -260,7 +260,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is creating responsive web pages and an interest in e-commerce.",
   avatar_image_path: "projects_image.svg",
 };
 
