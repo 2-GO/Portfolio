@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "GO",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I create intuitive user experiences by leveraging my skills in HTML, CSS, JavaScript, and React. My aim is to build web apps that solve problems through clean, functional design. I thrive on collaborating with talented teams to deliver high-quality products. Frontend development aligns with my lifelong passion for technology and problem solving.",
   og: {
     title: "2-GO",
     type: "website",
